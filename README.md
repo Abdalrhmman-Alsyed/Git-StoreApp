@@ -1,2 +1,2 @@
 # Git-StoreApp
-##Project notes
+## Project notes
